@@ -26,3 +26,18 @@ Once your virtual environment is active, install the required libraries listed i
 
 ```bash
 pip install -r requirements.txt
+```
+**3. Train Model:**
+
+Train the modedl:
+
+```bash
+python new.py
+```
+**4. Run Chat:**
+
+To run chat:
+
+```bash
+python app.py
+
