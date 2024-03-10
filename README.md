@@ -1,6 +1,6 @@
 #  Chatbot Training
 
-**Get ready to build an intelligent conversational partner!** This project focuses on training a chatbot using your preferred framework, like [TensorFlow](https://www.tensorflow.org/), [Rasa](https://rasa.com/), [Dialogflow](https://cloud.google.com/dialogflow/), or any other library that suits your needs.
+**Get ready to build an intelligent conversational partner!** This project focuses on training a chatbot using [TensorFlow](https://www.tensorflow.org/),frework.
 
 ##  Quick Start
 
